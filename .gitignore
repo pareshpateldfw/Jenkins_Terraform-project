@@ -4,6 +4,13 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+# .docx files
+*.docx
+*.docx.*
+
+# zip files
+terraform_project (10).zip
+*.zip
 
 # Crash log files
 crash.log
