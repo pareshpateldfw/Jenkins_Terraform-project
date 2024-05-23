@@ -4,6 +4,7 @@ Step-by-Step Guide to Launch Terraform Project
 Prerequisites
 1. Install Terraform: Ensure you have Terraform installed on your local machine. You can download it from the 
 2. AWS CLI: Install and configure the AWS CLI with the necessary credentials. Follow the 
+```
 Step 1: 
 download files from github https://github.com/pareshpateldfw/Jenkins_Terraform-project and add/updates each terraform envs
 ```
